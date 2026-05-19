@@ -26,3 +26,4 @@ Thumbs.db
 *.log
 *.db
 *.sqlite
+main.py
